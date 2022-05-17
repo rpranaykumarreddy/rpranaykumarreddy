@@ -2,7 +2,7 @@
 - 🚀 Find my portfolio at https://pranay.wethinc.in 
 - 👀 I’m interested in AI & Web Development 
 - 🌱 I’m currently learning Back-end web development
-- 💞️ I’m looking to collaborate on web designing, web development & Logo designing...
+- 💞️ I’m looking to collaborate on web development, web designing & Logo designing...
 - 📫 How to reach me at twitter ( @RPKR_Inc ) & linkedin ( rpranaykumarreddy )
 
 <!---
