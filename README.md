@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @rpranaykumarreddy
-- 🚀 Find my portfolio at https://pranay.wethinc.in 
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Back-end web development
-- 💞️ I’m looking to collaborate on web development, web designing & Logo designing...
-- 📫 How to reach me at twitter ( @RPKR_Inc ) & linkedin ( rpranaykumarreddy )
+- 🚀 Find my portfolio at https://rpkr.in
+- 👀 I’m passionate about Full Stack Web Development (MERN & Spring Boot stacks)
+- 🌱 I’m currently enhancing my skills in Spring Boot
+- 💞️ I’m looking to collaborate with people with unique ideas & passion towards Firebase, Spring Boot & Express.js
+- 💼 I’m a full stack developer working at Nextuple Inc.
+- 📫 Reach me on Twitter (@rpkr_in) & LinkedIn (rpkr)
 
 <!---
 rpranaykumarreddy/rpranaykumarreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
